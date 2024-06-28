@@ -2,11 +2,11 @@
 
 _AdventureWorks Business Intelligence Project_
 
-**Objective**
+## Objective
 
 The goal of this project is to develop an interactive dashboard using Power BI Desktop for AdventureWorks, a global manufacturing company producing cycling equipment and accessories. The dashboard helps the management team track Key Performance Indicators (KPIs) such as sales, revenue, profit, and returns, compare regional performance, analyze product-level trends, and identify high-value customers.
 
-**Process**
+## Process
 
 1. **Connect and Transform Data**
 
@@ -56,7 +56,7 @@ The goal of this project is to develop an interactive dashboard using Power BI D
    GitHub Repository: Uploaded the .pbix file and related documentation to GitHub.
 
 
-_**Dashboard Overview**_
+## Dashboard Overview
 
 **Key Metrics**
 
